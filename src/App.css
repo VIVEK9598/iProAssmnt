@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  margin: 20px;
+}
+.cardContainer {
+  margin-top: 10px;
 }
 
 .App-logo {
